@@ -1,0 +1,12 @@
+name = "Mabel modpack"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7d8ca1a65812332a4247b512aefe310e938b72277885efe6a740a38490e81ab3"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.259"

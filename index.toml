@@ -1,0 +1,86 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "a97e9879873319e5f6731e48b430544461a43974029c99b9702a3c8245c88a7d"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "fd5919f522461f527f754599d9fd2140918b2197d1dde41011610189897b2d12"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "2b61d5100f1db31c7928ba7de237c5f863926c49a4bf53fcce27bf0371ec0575"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/furnitury.pw.toml"
+hash = "d21c40baab1ce7b1a603c5b99b8cb5704daedcc951e94de683a5c1455a1383a4"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "58333a1b7c35bd5940e63b498cf44da16b1f2464c73d72203d1fed84ccfd352a"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "783ed30ab6f6f60c604b9bdc2f26ec5b23c7a523179aa17119dbc541f7149022"
+metafile = true
+
+[[files]]
+file = "mods/kaleidoscope-cookery.pw.toml"
+hash = "dfeca78ef8f2d2de9b227e684f2314b5ae869841c040e2903d1a7429299acbf7"
+metafile = true
+
+[[files]]
+file = "mods/kaleidoscopetavern.pw.toml"
+hash = "64b32907185ca1477a4f1335af4cc3068c4ea9e5ea537ce408b360d595609acc"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "cf5d87f046590b99d92096a79f6ea2f456290ba5d423c256f06674d2d10a1592"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "6ea52b0dccdc5110b48ac9d5528fc2accb1c970b1fbcae34120e16001ddf115f"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "0a04f1d0b86262c6dfdbd14e0493d7f4786f24054a95a07ff7b41a7870bb258d"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-graves.pw.toml"
+hash = "e4768adf891bd47a68186135019a4d0ee06c580b239b1f21efec890620d3acb7"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
+metafile = true
