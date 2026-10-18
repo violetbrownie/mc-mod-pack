@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rJosIUQ3/versions/jarpNDar/vanilla-graves-1.21.x-1.0.jar"
-hash-format = "sha512"
-hash = "815ac63631283fa289f16453f53658efa9d8b861b807de820a0f870bc8b3b15ac48977d90b61457753bb90d8282cf63a5d6aef76162b43bcbb789d0b8b542d2a"
+hash-format = "sha256"
+hash = "e1e9260cf69fd00862031960b2cb84f9d8846b42076811e63cb88666f6ed62d4"
 
 [update]
 [update.modrinth]

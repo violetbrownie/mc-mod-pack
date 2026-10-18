@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sNpla5PF/versions/7O7UKmVY/furnitury-4.0.0.1.jar"
-hash-format = "sha512"
-hash = "3065efd5bc84b43d985e513250060354398d0af93b30ee2116195609b991b989cc5ec17f6127b712a93550e658ef29b9a6a47e2611e08685c6d6e79f627fd24e"
+hash-format = "sha256"
+hash = "b08cac9a5241d25b3124805bdcc65ce63a44497e1e3e9a9a8ddcf6a7c2154360"
 
 [update]
 [update.modrinth]

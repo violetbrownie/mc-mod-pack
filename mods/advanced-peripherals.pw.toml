@@ -3,8 +3,8 @@ filename = "AdvancedPeripherals-1.21.1-0.8.2a.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c5ec43be7209c5f74b27bab0df51979f18c4d02f"
+hash-format = "sha256"
+hash = "40770c284ba859ca0efb0e113e30625d93a7e252a5587ca5cf45f31d81f481ed"
 mode = "metadata:curseforge"
 
 [update]

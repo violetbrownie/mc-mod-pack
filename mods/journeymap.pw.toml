@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/CtFE7hwT/journeymap-neoforge-1.21.1-6.0.9.jar"
-hash-format = "sha512"
-hash = "8900ee4cdb7d1ffb6559decdeec84ad479d04b2e7b01a60be9f6e328809af2bfd7a80077b7da0e49bc96261fe8fe274ba33c62f6c9f65302c783ed823c4ff746"
+hash-format = "sha256"
+hash = "9bd7734542233d5281750572f17a9258449e826650c081e9a67dc426262c2fde"
 
 [update]
 [update.modrinth]

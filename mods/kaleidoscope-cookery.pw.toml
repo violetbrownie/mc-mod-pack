@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/v17FatAc/versions/g8w0b2ly/kaleidoscopecookery-1.6.0-neoforge%2Bmc1.21.1.jar"
-hash-format = "sha512"
-hash = "b562f73395f70d39fb26d89ca62a5b5cebe7d66b11e8930217f0daf03fdcea617629728f55e4c8ced690406204c44462a8a568e5c15f05f5940274904ce0b77f"
+hash-format = "sha256"
+hash = "e93784a3f17e546ebfa7c449572933bf67c6b694c01cb26b83ad120c40452b33"
 
 [update]
 [update.modrinth]
