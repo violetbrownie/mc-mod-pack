@@ -111,11 +111,6 @@ hash = "0fe5ac7b1bfc46d557ce278b2bcf7a6bea320de1ed38f8772516c16bc4c86632"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-graves.pw.toml"
-hash = "820d70e17cf05e85b10a4e8eb81b5efc7b93305f6909f4c3b7d97c72255805ae"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "b7aeed923fff2aecbde3e13940f7a55e82dae6ad3612e3b6e4a307ba4f6aa880"
 metafile = true
